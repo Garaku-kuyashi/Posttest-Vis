@@ -1,0 +1,16 @@
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\bin\Debug\net10.0-windows\Posttest-2.exe
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\bin\Debug\net10.0-windows\Posttest-2.deps.json
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\bin\Debug\net10.0-windows\Posttest-2.runtimeconfig.json
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\bin\Debug\net10.0-windows\Posttest-2.dll
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\bin\Debug\net10.0-windows\Posttest-2.pdb
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\Posttest_2.Form1.resources
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\Posttest-2.vbproj.GenerateResource.cache
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\Posttest-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\Posttest-2.AssemblyInfoInputs.cache
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\Posttest-2.AssemblyInfo.vb
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\Posttest-2.vbproj.CoreCompileInputs.cache
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\Posttest-2.dll
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\refint\Posttest-2.dll
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\Posttest-2.pdb
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\Posttest-2.genruntimeconfig.cache
+D:\TugasKuliah\Semester4\Praktikum\fahri\Posttest_Vis\Posttest-2\obj\Debug\net10.0-windows\ref\Posttest-2.dll
